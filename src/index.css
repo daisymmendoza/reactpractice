@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.PageComponent {
+  width: 30%;
+  margin: auto;
+  background-color: rgb(82, 144, 146);
+  color: white;
+  padding: 7px;
+  border-radius: 15px;
+}
+
+h2 {
+  font-size: 1.3em;
+  margin-bottom: -15px;
+  text-align: center;
+}
+
+ul {
+  font-size: 1.2em;
+  list-style: none;
+  margin-left: -35px;
+  margin-bottom: 30px;
+}
